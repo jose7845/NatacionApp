@@ -1,0 +1,17 @@
+{
+  "name": "NatacionApp",
+  "short_name": "NatacionApp",
+  "description": "Plataforma de entrenamiento para nadadores de pileta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
